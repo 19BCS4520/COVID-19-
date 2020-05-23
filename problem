@@ -1,0 +1,5 @@
+Introduction: Are you also bored in this lockdown time because you don’t have any component to make or create something which is useful for our society in this pandemic time. So, don’t worry Tinkercad is everywhere which gives you the facility is free to create or test any project or circuit.
+
+So, in this project we are creating a COVID-19 Human Detector using Arduino, 16x2 LCD, Potentiometer, PIR Sensor & Buzzer in Tinkercad. The PIR or Passive Infrared Sensor is a digital sensor which detects the movement of infrared lights from Humans & Animals. If any infrared light is detected by the PIR sensor then the buzzer will beep and it shows the status on LCD that there is any human or not.
+
+So, by using this circuit you can create an automated sanitize chamber or a machine to detect that there is any human or not from 7-8 m of distance. 
